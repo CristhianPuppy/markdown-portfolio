@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Books:
+ * The lord of the rings.
+ * The hobbit.
+ * Harry Potter.
+* Movies:
+ * Crazy rich asians.
